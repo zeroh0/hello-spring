@@ -17,6 +17,8 @@
   - artifactId: hello-spring
   - Dependencies: **Spring Web, Thymeleaf**
   
+<br>
+
 #### - 12.06
 **[01: 프로젝트 생성](https://zeroh0.github.io/java/hello_spring_1/)**  
 스프링 부트를 활용한 프로젝트 생성 방법과 프로젝트가 어떤 디렉토리, 파일을 가지고 있고 어떤 역할을 하고 있는지 간단히 알아봄.
