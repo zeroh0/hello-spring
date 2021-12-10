@@ -31,9 +31,9 @@
 html 파일과 Controller를 생성하여 스프링이 어떻게 동작하는지 간단히 알아봄.
 
 #### - 12.08
-**04. 빌드하고 실행하기**
+**[04. 빌드하고 실행하기](https://zeroh0.github.io/java/hello_spring_4/)**
 
-**05. 정적컨텐츠**
+**[05. 정적컨텐츠](https://zeroh0.github.io/java/hello_spring_5/)**
 
 **06. MVC와 템플릿엔진**
 
